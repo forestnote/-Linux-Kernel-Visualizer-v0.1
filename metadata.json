@@ -1,0 +1,5 @@
+{
+  "name": "Linux Kernel Visualizer",
+  "description": "An application to visually explore the structure of the Linux kernel in an interactive, hierarchical tree format. Click on folders to expand and collapse different subsystems.",
+  "requestFramePermissions": []
+}
